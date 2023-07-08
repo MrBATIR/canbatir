@@ -1,0 +1,37 @@
+body{
+    background-color: black
+}
+
+ 
+.motivasyonresmi {
+    border: 5px solid rgba(49, 213, 235, 0.815);
+    width: 100%;
+    
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.anabaslik{
+    text-transform: uppercase;
+    font-size:3rem;
+    color: white;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.poster{
+    background-color: black;
+    width: 50%;
+    margin-left: 25% ;
+    margin-top: 25px;
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    
+
+}
